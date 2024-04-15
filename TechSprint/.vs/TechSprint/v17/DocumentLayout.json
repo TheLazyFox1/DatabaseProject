@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|c:\\users\\liam.kilgore\\desktop\\maui\\databaseproject\\techsprint\\sqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|solutionrelative:sqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|c:\\users\\liam.kilgore\\desktop\\maui\\databaseproject\\techsprint\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|c:\\users\\liam.kilgore\\desktop\\maui\\databaseproject\\techsprint\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|c:\\users\\liam.kilgore\\desktop\\maui\\databaseproject\\techsprint\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|c:\\users\\liam.kilgore\\desktop\\maui\\databaseproject\\techsprint\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|c:\\users\\liam.kilgore\\desktop\\maui\\databaseproject\\techsprint\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|solutionrelative:customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|c:\\users\\liam.kilgore\\desktop\\maui\\databaseproject\\techsprint\\techsprint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07B254AA-AA90-4D49-BC21-4174DF56B442}|TechSprint.csproj|solutionrelative:techsprint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLite.cs",
-              "DocumentMoniker": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\SQLite.cs",
-              "RelativeDocumentMoniker": "SQLite.cs",
-              "ToolTip": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\SQLite.cs",
-              "RelativeToolTip": "SQLite.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T23:16:15.089Z",
+              "WhenOpened": "2024-04-15T00:47:50.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T00:47:47.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:44:00.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechSprint",
+              "DocumentMoniker": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\TechSprint.csproj",
+              "RelativeDocumentMoniker": "TechSprint.csproj",
+              "ToolTip": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\TechSprint.csproj",
+              "RelativeToolTip": "TechSprint.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T00:32:04.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:37:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:36:01.205Z",
               "EditorCaption": ""
             }
           ]
