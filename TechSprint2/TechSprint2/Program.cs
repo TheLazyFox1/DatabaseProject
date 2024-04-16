@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using TechSprint2.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
+builder.Services.AddDbContext<ApplicationDBContext>(option => option.UseSqlite(
+    builder.Configuration.GetConnectionString("localDb")));
 
 var app = builder.Build();
 
