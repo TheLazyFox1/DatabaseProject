@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechSprint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1aafc92320529fb9becbe2c3a72dc23acc5d8ed6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c549f5eeb0268dfaf6d377d007c3efbdeba46701")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechSprint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechSprint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

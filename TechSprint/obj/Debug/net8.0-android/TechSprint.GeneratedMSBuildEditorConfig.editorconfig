@@ -12,35 +12,35 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TechSprint
-build_property.ProjectDir = C:\Users\Liam.Kilgore\Desktop\MAUI\DatabaseProject\TechSprint\
+build_property.ProjectDir = C:\Users\Liam'sPC\Documents\Database Project\DatabaseProject\TechSprint\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Liam.Kilgore/Desktop/MAUI/DatabaseProject/TechSprint/App.xaml]
+[C:/Users/Liam'sPC/Documents/Database Project/DatabaseProject/TechSprint/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TechSprint.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Liam.Kilgore/Desktop/MAUI/DatabaseProject/TechSprint/AppShell.xaml]
+[C:/Users/Liam'sPC/Documents/Database Project/DatabaseProject/TechSprint/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TechSprint.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Liam.Kilgore/Desktop/MAUI/DatabaseProject/TechSprint/MainPage.xaml]
+[C:/Users/Liam'sPC/Documents/Database Project/DatabaseProject/TechSprint/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TechSprint.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Liam.Kilgore/Desktop/MAUI/DatabaseProject/TechSprint/Resources/Styles/Colors.xaml]
+[C:/Users/Liam'sPC/Documents/Database Project/DatabaseProject/TechSprint/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TechSprint.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Liam.Kilgore/Desktop/MAUI/DatabaseProject/TechSprint/Resources/Styles/Styles.xaml]
+[C:/Users/Liam'sPC/Documents/Database Project/DatabaseProject/TechSprint/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TechSprint.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

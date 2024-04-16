@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\TechSprint.csproj": {}
+    "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint\\TechSprint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\TechSprint.csproj": {
+    "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint\\TechSprint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\TechSprint.csproj",
+        "projectUniqueName": "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint\\TechSprint.csproj",
         "projectName": "TechSprint",
-        "projectPath": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\TechSprint.csproj",
-        "packagesPath": "C:\\Users\\Liam.Kilgore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint\\obj\\",
+        "projectPath": "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint\\TechSprint.csproj",
+        "packagesPath": "C:\\Users\\Liam'sPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Liam.Kilgore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Liam'sPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
