@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Liam\u0027sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D33A4AF-FB11-4047-A387-B930FBA129F6}|TechSprint2\\TechSprint2.csproj|c:\\users\\liam\u0027spc\\documents\\database project\\databaseproject\\techsprint2\\techsprint2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D33A4AF-FB11-4047-A387-B930FBA129F6}|TechSprint2\\TechSprint2.csproj|solutionrelative:techsprint2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D33A4AF-FB11-4047-A387-B930FBA129F6}|TechSprint2\\TechSprint2.csproj|c:\\users\\liam\u0027spc\\documents\\database project\\databaseproject\\techsprint2\\techsprint2\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D33A4AF-FB11-4047-A387-B930FBA129F6}|TechSprint2\\TechSprint2.csproj|solutionrelative:techsprint2\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Liam\u0027sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\appsettings.json",
+              "RelativeDocumentMoniker": "TechSprint2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Liam\u0027sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\appsettings.json",
+              "RelativeToolTip": "TechSprint2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T04:05:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Customers.cs",
               "DocumentMoniker": "C:\\Users\\Liam\u0027sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\Models\\Customers.cs",
               "RelativeDocumentMoniker": "TechSprint2\\Models\\Customers.cs",
