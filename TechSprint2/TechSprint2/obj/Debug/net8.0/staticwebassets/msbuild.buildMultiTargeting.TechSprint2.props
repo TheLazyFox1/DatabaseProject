@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TechSprint2.props" />
+</Project>
