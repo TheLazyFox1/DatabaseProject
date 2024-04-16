@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj": {}
+    "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj": {
+    "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj",
+        "projectUniqueName": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj",
         "projectName": "TechSprint2",
-        "projectPath": "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj",
-        "packagesPath": "C:\\Users\\Liam'sPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Liam'sPC\\Documents\\Database Project\\DatabaseProject\\TechSprint2\\TechSprint2\\obj\\",
+        "projectPath": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint2\\TechSprint2\\TechSprint2.csproj",
+        "packagesPath": "C:\\Users\\Liam.Kilgore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam.Kilgore\\Desktop\\MAUI\\DatabaseProject\\TechSprint2\\TechSprint2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Liam'sPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Liam.Kilgore\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

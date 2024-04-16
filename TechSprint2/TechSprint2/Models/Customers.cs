@@ -1,12 +1,16 @@
-﻿namespace TechSprint2.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace TechSprint2.Models
 {
     public class Customers
     {
-       
-            public int Id { get; set; }
-            public string Name { get; set; }
-            public string Computer { get; set; }
-            // Add other properties as needed
-        
+        public string LaptopName { get; set; }
+        [Key]
+        public string SerialNumber { get; set; }
+        public DateTime PurchaseTime { get; set; }
+        public string Brand { get; set; }
+        public string Model { get; set; }
+        public float Price { get; set; }
+
     }
 }
