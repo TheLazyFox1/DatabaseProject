@@ -1,3 +1,3 @@
 # DatabaseProject
 TechSprint
-Liam Kilgore, Sarah Kastali
+Liam Kilgore, Sara Kastali
