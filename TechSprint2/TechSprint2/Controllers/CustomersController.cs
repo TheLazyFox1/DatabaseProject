@@ -116,9 +116,12 @@ namespace TechSprint2.Controllers
             return View(customers);
         }
 
-        // GET: Customers/Delete/5
+        // GET: Customers/Delete/5 
+
+        //Here we are trying to do a represents the unique identifier (SerialNumber) of the customer to be deleted.
         public async Task<IActionResult> Delete(string id)
         {
+            // indicating that the requested resource was not found.
             if (id == null)
             {
                 return NotFound();

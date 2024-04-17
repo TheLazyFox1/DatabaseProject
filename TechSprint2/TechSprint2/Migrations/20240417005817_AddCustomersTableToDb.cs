@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace TechSprint2.Migrations
 {
-    /// <inheritdoc />
+    /// <inheritdoc /> 
     public partial class AddCustomersTableToDb : Migration
     {
         /// <inheritdoc />
