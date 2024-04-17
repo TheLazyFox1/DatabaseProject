@@ -8,7 +8,9 @@ namespace TechSprint2.Migrations
     /// <inheritdoc /> 
     public partial class AddCustomersTableToDb : Migration
     {
-        /// <inheritdoc />
+        /// <inheritdoc /> 
+        /// Here we are trying to charge of outlining the modifications to the database structure required to add a new table called Customers.
+
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
